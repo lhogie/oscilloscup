@@ -1,0 +1,12 @@
+oscilloscup
+oscilloscup.data
+oscilloscup.data.event
+oscilloscup.data.math
+oscilloscup.data.rendering
+oscilloscup.data.rendering.figure
+oscilloscup.data.rendering.point
+oscilloscup.multiscup
+oscilloscup.multiscup.demo.evolving_object
+oscilloscup.multiscup.demo.mortgage
+oscilloscup.system
+oscilloscup.ui
